@@ -43,5 +43,7 @@ header span {
 }
 
 nav ul {
-  
+  display: flex;
+  gap: 1rem;
+  color: aliceblue;
 }
