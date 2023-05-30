@@ -4,3 +4,44 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  height: 100vh;
+  font-size: 1.6rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header {
+  background-color: black;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+header h1 {
+  color: rgb(0, 99, 165);
+  font-size: 3.5rem;
+}
+
+header span {
+  color: aliceblue;
+}
+
+nav ul {
+  
+}
